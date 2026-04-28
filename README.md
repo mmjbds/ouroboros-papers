@@ -27,7 +27,7 @@ We formalize reflexive intelligence through six interlinked papers. All source c
 
 ## 🧠 Technology Stack (V35)
 
-- **Base Architecture**: Gemma-4-26B (Ouroboros Optimized)
+- **Base Architecture**: Qwen3.5-35B-A3B (Mixture-of-Experts)
 - **Training Paradigm**: 12-Reward Group Relative Policy Optimization (GRPO)
 - **Cognitive Engine**: Two-Pass "Decoupled Decision-First" Reasoning
 - **Infrastructure**: Cloud-Local Hybrid (NVIDIA A800 + Mac 32GB Unified Memory)
@@ -39,7 +39,7 @@ We formalize reflexive intelligence through six interlinked papers. All source c
 
 We are currently conducting the **"Grand Exam"** — the most rigorous longitudinal backtest (2014-2026) for Paper 3. 
 
-- [x] **V35 Baseline established**
+- [x] **V35 (Qwen3.5) Baseline established**
 - [x] **ReflexBench (P2) scores finalized** (Total: 2.71+ across frontier models)
 - [/] **Long-term Backtest ongoing** (Full 148-scenario stress test)
 - [ ] **ICAIF 2026 Final Submission**
